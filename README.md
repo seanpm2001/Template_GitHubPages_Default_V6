@@ -3,6 +3,8 @@
 
 # The (<projectName>) project
 
+<!-- Remove the parantheses in the title header for better readability !-->
+  
 ![Untitled.svg This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/Image.svg)
 
 # By:
@@ -23,7 +25,7 @@ _🌐 List of languages_
 
 **Sorted by:** `A-Z`
 
-[Sorting options unavailable](https://github.com/<repoName>/<repoName>.github.io/)
+[Sorting options unavailable](https://github.com/<organizationName>/<repoName>.github.io/)
 
 ( [af Afrikaans](/.github/README_AF.md) Afrikaans | [sq Shqiptare](/.github/README_SQ.md) Albanian | [am አማርኛ](/.github/README_AM.md) Amharic | [ar عربى](/.github/README_AR.md) Arabic | [hy հայերեն](/.github/README_HY.md) Armenian | [az Azərbaycan dili](/.github/README_AZ.md) Azerbaijani | [eu Euskara](/.github/README_EU.md) Basque | [be Беларуская](/.github/README_BE.md) Belarusian | [bn বাংলা](/.github/README_BN.md) Bengali | [bs Bosanski](/.github/README_BS.md) Bosnian | [bg български](/.github/README_BG.md) Bulgarian | [ca Català](/.github/README_CA.md) Catalan | [ceb Sugbuanon](/.github/README_CEB.md) Cebuano | [ny Chichewa](/.github/README_NY.md) Chichewa | [zh-CN 简体中文](/.github/README_ZH-CN.md) Chinese (Simplified) | [zh-t 中國傳統的）](/.github/README_ZH-T.md) Chinese (Traditional) | [co Corsu](/.github/README_CO.md) Corsican | [hr Hrvatski](/.github/README_HR.md) Croatian | [cs čeština](/.github/README_CS.md) Czech | [da dansk](README_DA.md) Danish | [nl Nederlands](/.github/README_NL.md) Dutch | [**en-us English**](/.github/README.md) English |  [EO Esperanto](/.github/README_EO.md) Esperanto | [et Eestlane](/.github/README_ET.md) Estonian | [tl Pilipino](/.github/README_TL.md) Filipino | [fi Suomalainen](/.github/README_FI.md) Finnish |  [fr français](/.github/README_FR.md) French | [fy Frysk](/.github/README_FY.md) Frisian | [gl Galego](/.github/README_GL.md) Galician | [ka ქართველი](/.github/README_KA) Georgian | [de Deutsch](/.github/README_DE.md) German | [el Ελληνικά](/.github/README_EL.md) Greek | [gu ગુજરાતી](/.github/README_GU.md) Gujarati | [ht Kreyòl ayisyen](/.github/README_HT.md) Haitian Creole | [ha Hausa](/.github/README_HA.md) Hausa | [haw Ōlelo Hawaiʻi](/.github/README_HAW.md) Hawaiian | [he עִברִית](/.github/README_HE.md) Hebrew | [hi हिन्दी](/.github/README_HI.md) Hindi | [hmn Hmong](/.github/README_HMN.md) Hmong | [hu Magyar](/.github/README_HU.md) Hungarian | [is Íslenska](/.github/README_IS.md) Icelandic | [ig Igbo](/.github/README_IG.md) Igbo | [id bahasa Indonesia](/.github/README_ID.md) Icelandic | [ga Gaeilge](/.github/README_GA.md) Irish | [it Italiana/Italiano](/.github/README_IT.md) | [ja 日本語](/.github/README_JA.md) Japanese | [jw Wong jawa](/.github/README_JW.md) Javanese | [kn ಕನ್ನಡ](/.github/README_KN.md) Kannada | [kk Қазақ](/.github/README_KK.md) Kazakh | [km ខ្មែរ](/.github/README_KM.md) Khmer | [rw Kinyarwanda](/.github/README_RW.md) Kinyarwanda | [ko-south 韓國語](/.github/README_KO_SOUTH.md) Korean (South) | [ko-north 문화어](README_KO_NORTH.md) Korean (North) (NOT YET TRANSLATED) | [ku Kurdî](/.github/README_KU.md) Kurdish (Kurmanji) | [ky Кыргызча](/.github/README_KY.md) Kyrgyz | [lo ລາວ](/.github/README_LO.md) Lao | [la Latine](/.github/README_LA.md) Latin | [lt Lietuvis](/.github/README_LT.md) Lithuanian | [lb Lëtzebuergesch](/.github/README_LB.md) Luxembourgish | [mk Македонски](/.github/README_MK.md) Macedonian | [mg Malagasy](/.github/README_MG.md) Malagasy | [ms Bahasa Melayu](/.github/README_MS.md) Malay | [ml മലയാളം](/.github/README_ML.md) Malayalam | [mt Malti](/.github/README_MT.md) Maltese | [mi Maori](/.github/README_MI.md) Maori | [mr मराठी](/.github/README_MR.md) Marathi | [mn Монгол](/.github/README_MN.md) Mongolian | [my မြန်မာ](/.github/README_MY.md) Myanmar (Burmese) | [ne नेपाली](/.github/README_NE.md) Nepali | [no norsk](/.github/README_NO.md) Norwegian | [or ଓଡିଆ (ଓଡିଆ)](/.github/README_OR.md) Odia (Oriya) | [ps پښتو](/.github/README_PS.md) Pashto | [fa فارسی](/.github/README_FA.md) |Persian  [pl polski](/.github/README_PL.md) Polish | [pt português](/.github/README_PT.md) Portuguese | [pa ਪੰਜਾਬੀ](/.github/README_PA.md) Punjabi | No languages available that start with the letter Q | [ro Română](/.github/README_RO.md) Romanian | [ru русский](/.github/README_RU.md) Russian | [sm Faasamoa](/.github/README_SM.md) Samoan | [gd Gàidhlig na h-Alba](/.github/README_GD.md) Scots Gaelic | [sr Српски](/.github/README_SR.md) Serbian | [st Sesotho](/.github/README_ST.md) Sesotho | [sn Shona](/.github/README_SN.md) Shona | [sd سنڌي](/.github/README_SD.md) Sindhi | [si සිංහල](/.github/README_SI.md) Sinhala | [sk Slovák](/.github/README_SK.md) Slovak | [sl Slovenščina](/.github/README_SL.md) Slovenian | [so Soomaali](/.github/README_SO.md) Somali | [[es en español](/.github/README_ES.md) Spanish | [su Sundanis](/.github/README_SU.md) Sundanese | [sw Kiswahili](/.github/README_SW.md) Swahili | [sv Svenska](/.github/README_SV.md) Swedish | [tg Тоҷикӣ](/.github/README_TG.md) Tajik | [ta தமிழ்](/.github/README_TA.md) Tamil | [tt Татар](/.github/README_TT.md) Tatar | [te తెలుగు](/.github/README_TE.md) Telugu | [th ไทย](/.github/README_TH.md) Thai | [tr Türk](/.github/README_TR.md) Turkish | [tk Türkmenler](/.github/README_TK.md) Turkmen | [uk Український](/.github/README_UK.md) Ukrainian | [ur اردو](/.github/README_UR.md) Urdu | [ug ئۇيغۇر](/.github/README_UG.md) Uyghur | [uz O'zbek](/.github/README_UZ.md) Uzbek | [vi Tiếng Việt](/.github/README_VI.md) Vietnamese | [cy Cymraeg](/.github/README_CY.md) Welsh | [xh isiXhosa](/.github/README_XH.md) Xhosa | [yi יידיש](/.github/README_YI.md) Yiddish | [yo Yoruba](/.github/README_YO.md) Yoruba | [zu Zulu](/.github/README_ZU.md) Zulu ) Available in 110 languages (108 when not counting English and North Korean, as North Korean has not been translated yet [Read about it here](/OldVersions/Korean(North)/README.md))
 
@@ -61,35 +63,45 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 [04.0 - Wiki](#Wiki)
 
-[05.0 - Version history](#Version-history)
+[05.0 - Copying](#Copying)
 
-[06.0 - Software status](#Software-status)
+[06.0 - Credits](#Credits)
 
-[07.0 - Sponsor info](#Sponsor-info)
+[07.0 - Installation](#Installation)
 
-[08.0 - Contributers](#Contributers)
+[08.0 - 404 page](#404-page)
 
-[09.0 - Issues](#Issues)
+[09.0 - Version history](#Version-history)
 
-> [09.1 - Current issues](#Current-issues)
+[10.0 - Software status](#Software-status)
 
-> [09.2 - Past issues](#Past-issues)
+[11.0 - Sponsor info](#Sponsor-info)
 
-> [09.3 - Past pull requests](#Past-pull-requests)
+[12.0 - Contributers](#Contributers)
 
-> [09.4 - Active pull requests](#Active-pull-requests)
+[13.0 - Issues](#Issues)
 
-[10.0 - Resources](#Resources)
+> [13.1 - Current issues](#Current-issues)
 
-[11.0 - Contributing](#Contributing)
+> [13.2 - Past issues](#Past-issues)
 
-[12.0 - About README](#About-README)
+> [13.3 - Past pull requests](#Past-pull-requests)
 
-[13.0 - README Version history](#README-version-history)
+> [13.4 - Active pull requests](#Active-pull-requests)
 
-[14.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+[14.0 - Resources](#Resources)
 
-> [14.1 - End of file](#EOF)
+[15.0 - Contributing](#Contributing)
+
+[16.0 - About README](#About-README)
+
+[17.0 - README Version history](#README-version-history)
+
+[18.0 - Technical notes](#Technical-notes)
+
+[19.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+
+> [19.9 - End of file](#EOF)
 
 ***
 
@@ -134,6 +146,36 @@ If the project has been forked, the Wiki was likely removed. Luckily, I include 
 
 ***
 
+## Copying
+
+View the copying license for this project [here](/COPYING) (if you haven't built the project yet with the makefile, here is the original link: [COPYINGL](/COPYINGL)
+
+Please note that you also have to follow the rules of the GNU General Public License v3 (GPL3) which you can view [here](/LICENSE.txt)
+
+***
+
+## Credits
+
+View the credits file for this project and see the people who got together to make this project by [clicking/tapping here](/CREDITS)
+
+***
+
+## Installation
+
+View the installation instructions file for this project [here](/INSTALL)
+
+Requirements: Jekyll, GitHub emulator (may not exist yet)
+
+***
+
+## 404 page
+
+Test the 404 page for this project by [clicking/tapping here](/Site/404/THIS-WILL-NEVER-WORK/ABJAB/DXV48/22846/FILE.xabcdfgxlma329)
+
+Getting a different 404 page? View the 404 page directly by [clicking/tapping here](/404.htm;)
+
+***
+
 ## Sponsor info
 
 ![SponsorButton.png](/SponsorButton.png)
@@ -174,7 +216,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of Yr, DoW, Month, DoM at ##:## a/pm)
 
 > * 2. No other contributers.
 
@@ -244,9 +286,21 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file] A(/PROJECT_LANG_1.htm)
+[Project language file A](/PROJECT_LANG_1.htm)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions/)
+[View the editor configuration file for this project](/.editorconfig)
+
+[View the linguist attributes file for this project](/.gitattributes)
+
+[View the Git Ignore file for this project](/.gitignore)
+
+[View the organization for this project](https://github.com/<organizationName>/)
+
+[Build/view the makefile for this project](/makefile.mk)
+
+[Join the discussion on GitHub](https://github.com/<organizationName>/<repoName>/discussions/)
+
+[View the issues/Raise an issue for this project](https://github.com/<organizationName>/<repoName>/issues/)
 
 No other resources at the moment.
 
@@ -264,9 +318,9 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 File type: `Markdown (*.md)`
 
-File version: `0.12A (Thursday, July 22nd 2021 at 6:26 pm)`
+File version: `013 (Saturday, 2021 August 21st at 5:02 pm)`
 
-Line count: `0,390`
+Line count: `0,486`
 
 ***
 
@@ -362,6 +416,40 @@ Version 0.12A (Thursday, July 22nd 2021 at 6:26 pm)
 
 > * No other changes in version 0.11B
 
+Version 0.13 (2021, Saturday August 21st 2021 at 5:02 pm)
+
+> Changes:
+  
+> * Times are now compliant with ISO:8601 and use YYYY-MM-DD rather than MM-DD-YYYY
+
+> * Updated the title section
+
+> * Fixed and update template links
+
+> * Updated the index
+
+> * Added the copying section
+
+> * Added the credits section
+
+> * Added the installation section
+
+> * Added the 404 page test section
+
+> * Updated the resources section
+
+> * Updated the contributors section
+
+> * Added the technical notes section
+
+> * Updated the footer
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 6 (0.13)
+
 Version 1 (Coming soon)
 
 > Changes:
@@ -380,9 +468,17 @@ Version 2 (Coming soon)
 
 ***
 
+## Technical notes
+
+**All times are UTC-7 (PDT/Pacific Time)**
+
+**The encoding is UTF-8 and is compatible with Unicode 5.0 and up**
+
+***
+
 ## You have reached the end of the README file
 
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to DuckDuckGo](https://duckduckgo.com) )
+( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) )
 
 ### EOF
 
